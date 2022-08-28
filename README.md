@@ -17,8 +17,8 @@ tags: [Tinkboard Edge R, IoT, Android, Flutter]
 
 [별첨](#별첨)
 
-[![Watch the video](https://img.youtube.com/vi/p-jtZBpTV6w/hqdefault.jpg)](https://www.youtube.com/watch?v=p-jtZBpTV6w)
-![](images/b0.jpg)
+[![Watch the video](images/t2.jpg)](images/teach.mp4)
+![](images/t2.jpg)
 
 ---
 
