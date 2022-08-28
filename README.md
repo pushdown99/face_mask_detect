@@ -60,7 +60,7 @@ tags: [Tinkboard Edge R, IoT, Android, Flutter]
     - 마스크 착용시
 ![](images/mask.jpg)
     - 마스크 미착용시
-![](images/no_mask.jpg)
+![](images/nomask.jpg)
 
 ---
 
