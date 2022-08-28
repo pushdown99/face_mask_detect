@@ -12,10 +12,6 @@ tags: [Tinkboard Edge R, IoT, Android, Flutter]
 5. [파일리스트](#파일리스트)
 6. [코드 기여자](#코드-기여자)
 7. [보드](#보드)
-8. [구현 사항 가산점](#구현-사항-가산점)
-
-
-[별첨](#별첨)
 
 [![Watch the video](images/t2.jpg)](images/teach.mp4)
 
