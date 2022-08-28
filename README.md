@@ -57,14 +57,16 @@ tags: [Tinkboard Edge R, IoT, Android, Flutter]
 #### 하고자 하는것
 - 특정장소에서 방문한 소비자들의 마스크착용여부를 감지하고 권고
 - **마스크감지기**
-
-![](images/m3.jpg)
+    - 마스크 착용시
+![](images/mask.jpg)
+    - 마스크 미착용시
+![](images/no_mask.jpg)
 
 ---
 
 ## 파일리스트
   
-#### 마스크감지기 [[github]](https://github.com/pushdown99/sound-camera/tree/master/camera)
+#### 마스크감지기 [[github]](https://github.com/pushdown99/face_mask_detect)
 ~~~console
 ├─lib
 │  ├─main.dart
